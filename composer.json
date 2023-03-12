@@ -1,5 +1,5 @@
 {
-    "name": "genealabs/laravel-overridable-model",
+    "name": "3x1io/laravel-overridable-model",
     "description": "Provide a uniform method of allowing models to be overridden in Laravel.",
     "keywords": [
         "laravel",
@@ -7,7 +7,6 @@
     ],
     "license": "MIT",
     "require": {
-        "illuminate/support": "^9.0",
         "symfony/thanks": "^1.2"
     },
     "autoload": {
